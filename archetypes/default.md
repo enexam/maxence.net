@@ -2,7 +2,11 @@
 date = '{{ .Date }}'
 draft = true
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+tags = ["tags"]
+topics = ["topic"]
+my_taxonomies = ["value"]
+featured = true
 [rtwt]
- sidePane = false
- sidePaneSticky = false
+ sidePane = true
+ sidePaneSticky = true
 +++

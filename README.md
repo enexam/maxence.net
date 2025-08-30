@@ -1,1 +1,1 @@
-# maxence.net
+[Access the blog here](https://enexam.github.io/maxence_blog/)
