@@ -23,7 +23,7 @@ theme = 'rusty-typewriter'
 
  [params.rtwt.side.home]
   sidePaneSticky = false 
-  taxonomies = ['tags']
+  taxonomies = ['tags', 'categories']
   countTaxonomy = 5
 
  [params.rtwt.side.list]
@@ -36,3 +36,25 @@ theme = 'rusty-typewriter'
   showAttachments = true
   showRelated = true
   countRelated = 5
+
+ [taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 1
+  [[menus.main]]
+    name = 'GNU Radio modules'
+    pageRef = '/gnuradio_modules/'
+    weight = 2
+  [[menus.main]]
+    name = 'Ground station'
+    pageRef = '/ground_station/'
+    weight = 3
+  [[menus.main]]
+    name = 'About me'
+    pageRef = '/about_me'
+    weight = 4

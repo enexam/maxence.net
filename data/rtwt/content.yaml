@@ -1,0 +1,11 @@
+home:
+  image: 'images/pp.jpg'
+  greetings: "Hello, I'm Maxence!"
+  text: "Follow my work on signal processing and satellite telecommunications here."
+side:
+  home:
+  - title: 'Socials'
+    content: '
+    - [LinkedIn](https://www.linkedin.com/in/maxencebeuselinck/)
+
+    - [Github](https://github.com/enexam)'

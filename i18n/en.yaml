@@ -1,0 +1,28 @@
+# Root
+theme_light: Light theme
+theme_dark: Dark theme
+
+# Not found (404)
+not_found_title: No signal!
+not_found_desc: I hope you were not searching for something important.
+not_found_home_link: Go Home
+
+# Footer
+scroll_top: Back to top
+
+# Home
+featured_posts: Featured posts
+recent_posts: Recent posts
+
+# SidePane for home
+see_all: See all
+
+# Page
+breadcrumb_home: Home
+
+# SidePane for single pages
+details_words: words
+details_read_time: minutes
+side_table_of_contents: Table of contents
+side_attachments: Attachments
+side_related: Related
