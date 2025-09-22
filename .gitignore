@@ -1,2 +1,5 @@
 .hugo_build.lock
 public/
+.frontmatter
+.vscode
+frontmatter.json
